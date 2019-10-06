@@ -1,2 +1,2 @@
 # pythonstuff
-Just a repo for playing in Python
+Just a repo for me to play in Python
